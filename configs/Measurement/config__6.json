@@ -1,0 +1,12 @@
+{
+  "measurement": {
+    "defaultAreaUnit": "esriSquareMeters",
+    "defaultLengthUnit": "esriMeters"
+  },
+  "showArea": false,
+  "showDistance": true,
+  "showLocation": false,
+  "defaultAreaUnit": "esriSquareMiles",
+  "defaultLengthUnit": "esriMiles",
+  "isOperationalLayer": false
+}
